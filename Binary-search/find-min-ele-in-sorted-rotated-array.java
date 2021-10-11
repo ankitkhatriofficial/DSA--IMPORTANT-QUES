@@ -1,6 +1,6 @@
 /**
-  * Problem statement: Your friend has a sorted Array and he wants you to find the mininum element in that array. But your friend is very clever and he rotates the sorted array by 'N' times.
-  * You have to find the minimum element in the rotated sorted array.
+  * Problem statement: Your friend has a sorted Array and he wants you to find the mininum element in that array. But your friend is very clever 
+  * and he rotates the sorted array by 'N' times. You have to find the minimum element in the rotated sorted array.
   *
   * Topic: Binary Search
   * Time Complexity: O(logn)
