@@ -42,6 +42,7 @@ class Solution{
     }
     
     // Function to find minimum element in rotated Sorted Array => TC: O(logn)
+    // https://github.com/ankitkhatriofficial/DSA--IMPORTANT-QUES/blob/main/Binary-search/find-min-ele-in-sorted-rotated-array.java
     private static int minElement(int[] A){
         int low = 0, high = A.length - 1;
         
